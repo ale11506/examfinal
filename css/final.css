@@ -1,0 +1,38 @@
+body{
+    background-color: brown;
+}
+
+
+.form{
+    border: solid;
+    border-radius: 3mm;
+    border-color: azure;
+    border-left: 500cm;
+    background-color: rgba(232, 214, 193, 0.594);
+    width: 600px;
+    height: 400px;
+    margin-left: 20%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tabla{
+    border: solid;
+    border-radius: 3mm;
+    border-color: azure;
+    border-left: 500cm;
+    background-color: rgba(232, 214, 193, 0.594);
+    width: 800px;
+    height: 400px;
+    margin-left: 15%;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tab,th,td{
+    border-style: double;
+    background-color: bisque;
+}
+.logo{
+    position:fixed;
+}
+
+
